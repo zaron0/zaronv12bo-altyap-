@@ -9,6 +9,6 @@ module.exports = client => {
   console.log(`BU ALT YAPI SB CAN & ZARON A AITTIR`);
   console.log(`[BOT] | (${client.user.username}) BOT HAZIR !`);
   client.user.setStatus("DND");
-  client.user.setActivity("SB CAN", { type: "WATCHING"}); //// TYPE - WATCHING , PLAYING , LISTENING gibi değiştirilebilir.
+  client.user.setActivity("ZARON", { type: "WATCHING"}); //// TYPE - WATCHING , PLAYING , LISTENING gibi değiştirilebilir.
  
 };
